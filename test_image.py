@@ -20,7 +20,7 @@ def preprocess_image(image_path):
     return img.flatten().reshape(1, -1)  
 
 # Path to the new image
-new_image_path = "/Users/akashadhyapak/Documents/ML/Fish Disease/test-non infected.png"  
+new_image_path = "/Users/akashadhyapak/Documents/ML/Fish Disease/aug_0_943.jpeg"  
 
 
 threshold = -5  
